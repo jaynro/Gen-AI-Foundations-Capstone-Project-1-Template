@@ -1,4 +1,4 @@
-# Gen AI Foundations: Capstone Project 1 - Document-to-JSON Extraction Agent
+# Agentic  AI Foundations: Capstone Project 1 - Document-to-JSON Extraction Agent
 
 ## 🛑 Reviewer Instructions: Submission Checklist 🛑
 
